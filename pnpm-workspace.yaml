@@ -1,4 +1,6 @@
 ignoredBuiltDependencies:
   - sharp
 onlyBuiltDependencies:
+  - '@vercel/speed-insights'
   - bcrypt
+  - unrs-resolver
